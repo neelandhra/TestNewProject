@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author infyz
+ *
+ */
+module TestNewProject {
+}
